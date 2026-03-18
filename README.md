@@ -6,4 +6,4 @@ npm run dev
 
 
 and deloyed on versel
-link=
+link=https://luxualaryrealstate.vercel.app/
